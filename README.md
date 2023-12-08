@@ -22,9 +22,11 @@
 </div><br>
 
 ## Sobre
+
 Estudante de Game Design, Modelagem de Cenários e Level Design, Motores de jogos digitais, Roterização para jogos.
 
 ## Formação
+
 ### Unopar
 Cursando 3° semestre | tecnólogo Superior em tecnologia Jogos digitais
 
