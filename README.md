@@ -1,4 +1,4 @@
-### Olá, sou a Yvina Silva 👋
+### Olá, Eu sou a Yvina Silva 👋
 
 ## Contact
 
