@@ -8,7 +8,7 @@
 
 ## Status
 
-![Yvina Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Yvinasilva&show_icons=true&theme=midnight-purple)
+![Yvina Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Yvinasilva&show_icons=true&theme=synthwave)
 
 ## Linguagens & outros
 
@@ -31,6 +31,5 @@ Estudante de Game Design, Modelagem de Cenários e Level Design, Motores de jogo
 Cursando 3° semestre | tecnólogo Superior em tecnologia Jogos digitais
 
 ### IFCE - Instituto Federal de Educação, Ciência e Tecnologia do Ceará
-
 Concluído em 2022 | Curso técnico Suporte e manutenção em informatica
 
