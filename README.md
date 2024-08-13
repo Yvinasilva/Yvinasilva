@@ -35,5 +35,4 @@ Cursando 4° semestre | tecnólogo Superior em tecnologia Jogos digitais
 ### IFCE - Instituto Federal de Educação, Ciência e Tecnologia do Ceará
 Concluído em 2022 | Curso técnico Suporte e manutenção em informatica
 
-![Snake animation](https://github.com/Yvinasilva/Yvinasilva/blob/output/github-contribution-grid-snake.svg)
 
