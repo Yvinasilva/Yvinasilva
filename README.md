@@ -1,19 +1,26 @@
-### Olá, Eu sou a Yvina Silva 👋
+## Olá, Eu sou a Yvina Silva 👋
 
-## Contact
+### Contact
+<div>
+  
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yvinayvin@gmail.com)
+  [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yvina-silva/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yvinasilv/)
+  
+</div>
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yvinayvin@gmail.com)
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yvina-silva/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yvinasilv/)
+##
 
-## Status
+### Status
+<div>
+  
 ![Yvina Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Yvinasilva&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvinasilva&layout=compact&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvinasilva&layout=compact)
+</div>
 
 
-## Linguagens & outros
-
+### Linguagens & outros
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,16 +30,16 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </div><br>
 
-## Sobre
+##
+
+### Sobre
 
 Estudante de Game Design, Modelagem de Cenários e Level Design, Motores de jogos digitais, Roterização para jogos.
 
-## Formação
+### Formação
 
 ### Unopar
 Cursando 4° semestre | tecnólogo Superior em tecnologia Jogos digitais
 
 ### IFCE - Instituto Federal de Educação, Ciência e Tecnologia do Ceará
 Concluído em 2022 | Curso técnico Suporte e manutenção em informatica
-
-![Snake animation](https://github.com/Yvinasilva/Yvinasilva/blob/output/github-contribution-grid-snake.svg)
